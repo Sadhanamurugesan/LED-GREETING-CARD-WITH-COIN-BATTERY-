@@ -43,7 +43,7 @@
 
 - Step 6  – LED Connection  
   We connected the LED with the battery using connecting wires. The LED was placed near the greeting card design.![][image1]
-  ![stimulation].(stimulation.png)
+  ![circuit](Circuits.png)
   
 - Step 7 –  Making the Conductive Strip  
   We used aluminium foil as a conducting material and fixed it properly with tape.  
